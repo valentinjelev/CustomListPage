@@ -1,0 +1,8 @@
+name: CustomListPage
+version: '${project.version}'
+main: me.codedcrown.customlistpage.CustomListPage
+api-version: 1.18
+authors: [ ValentinZhelev ]
+description: A basic plugin for custom /list command.
+commands:
+  list:
