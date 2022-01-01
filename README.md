@@ -6,4 +6,4 @@ A Minecraft basic plugin for custom /list command.
 
 # Permission - list.use
 
-### This plugin is made for the Bulgarian server BunnyCraft!!
+### This plugin is made for the Bulgarian server BunnyCraft!
